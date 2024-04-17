@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
+back_page: 'index.html'
 sidebar_link: true
 ---
 
