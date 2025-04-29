@@ -10,7 +10,7 @@ sidebar_link: true
 
 I'm a Computer Engineering undergraduate at the University of Massachusetts Amherst who loves to cook, read, listen and perform music, and of course, program.
 
-### Why computers? Why not philosophy? Or art?
+### Why computers? Why not philosophy? Or history?
 
 Growing up as a kid, I loved tinkering with any bit of technology I could
 get my hands on. From building [a powered periodic table](https://www.youtube.com/watch?v=urcIdu2K_WU)
@@ -19,12 +19,8 @@ trying to get Minecraft to run on a PowerPC processor, I was always trying somet
 
 So, to answer that question, I just like computers. Why not follow that?
 
-### Every kid likes...a lot of things. What made it stick?
-
-The fun really began with my Computer Science classes in high school. My principal
-achievement throughout those courses was achieving a perfect score on the AP CSA Exam in 2022. But
-I also built some wonderful projects during my time in high school, ranging from wildlife models in NetLogo
-to data-crunching tools in Python.
+The fun really began with my Computer Science classes in high school. I always found myself pouring more and more time into those classes, whether it was perfecting
+a model of wildlife in NetLogo, rounding out the experience on a Python script, or studying the questions for the AP CSA exam, I've always been attracted conversing with computers to solve problems.
 
 I was exposed to a large variety of languages at that time, both through school and my own adventures. That's when I began
 to find my love for C and lower level languages.
@@ -32,14 +28,11 @@ to find my love for C and lower level languages.
 ### So, how's that college thing treating you?
 
 My university studies so far have made me learn so much more than I could
-have imagined with computer science. From understanding the inner workings of a processor to the abstract
-world of discrete math, every day I feel like I turn over another corner of this field I had never thought of.
+have imagined with computer engineering. From learning every step involved in programming an ATMega328P microcontroller to the behaviors of op-amps and MOSFETs, understanding how to build things which can harness the amazing power of technology is a journey I hope to continue for the rest of my life.
 
-I'm also currently employed at UMass Transit Services as a Full Stack Programmer working on their internal tooling. This job has introduced me
-to the wonderful, wonderful world of Ruby on Rails and the beauty of [omakase programming](https://rubyonrails.org/doctrine#omakase).
+I'm also currently employed at UMass Transit Services as a Full Stack Programmer. This job has given me amazing chances to work on real projects and receive feedback from end-users on a day to day basis. I love seeing the benefits of our improvements and optimizations when I ask my colleagues at Transit about our websites.
 
 ### Wait, you like computers a lot...do you do anything else?
 
-- Cooking! I've been making a lot of things out of [Evergreen Kitchen's](https://www.evergreenkitchen.ca) cookbook. It's...quite good.
-- Music! I'm a member of the Sigma Alpha chapter of [Phi Mu Alpha](https://www.sinfonia.org/) at UMass Amherst, a wonderful organization dedicated to advancing music in America.
-- Reading! There's a reason I mentioned philosophy earlier...
+- I'm currently the vice president of the Sigma Alpha Chapter of [Phi Mu Alpha Sinfonia](https://www.sinfonia.org) at UMass Amherst
+- I love to read. A lot. I've been working through various books on [NPR's Books We Love](https://apps.npr.org/best-books/#view=covers&year=2024).
