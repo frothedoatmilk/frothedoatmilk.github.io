@@ -12,3 +12,7 @@
   $sidebar-sticky:    false,
   );
 @use "hydeout";
+
+strong {
+  color: inherit
+};
