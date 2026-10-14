@@ -1,0 +1,22 @@
+<div class="post-meta">
+  <span class="post-date">{{ include.post.date | date_to_string }}</span>
+  <span class="post-categories">
+    {% assign index_pages = site.pages | where: "layout", "index" %}
+    {% for category in include.post.categories %}
+      &bull;
+
+      {% assign category_page = false %}
+      {% for node in index_pages %}
+        {% if node.category == category %}
+          {% assign category_page = node %}
+        {% endif %}
+      {% endfor %}
+
+      {% if category_page %}
+        <a href="{{ category_page.url | relative_url }}">{{ category_page.title | default: category_page.category }}</a>
+      {% else %}
+        {{ category | capitalize }}
+      {% endif %}
+    {% endfor %}
+  </span>
+</div>
